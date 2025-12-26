@@ -1,0 +1,6 @@
+100,G.Manushri,CSE,99.0
+101,B.Manjula,CSE,98.0
+102,V.Manjusha,CSE,97.0
+103,G.vinay vamsi,Civil,96.0
+104,S.Mahesh,CSE,98.0
+21,vinay,civil,66.0
